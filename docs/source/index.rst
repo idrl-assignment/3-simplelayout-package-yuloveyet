@@ -19,7 +19,7 @@ Some codes.::
 
 .. toctree::
    :maxdepth: 1
-   :caption: 使用markdown
+   :caption: markdown
    :titlesonly:
    :numbered:
 
