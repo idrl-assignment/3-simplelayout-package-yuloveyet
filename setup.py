@@ -66,9 +66,6 @@ setup(
         #   5 - Production/Stable
         'Development Status :: 3 - Alpha',
 
-        # Indicate who your project is intended for
-        'Intended Audience :: Students',
-        'Topic :: Python Classroom :: Test example',
 
         'Programming Language :: Python :: 3.8',
     ],
